@@ -40,7 +40,15 @@ SM.ms： [sm.ms](https://sm.ms/) （打不开了似乎）
 
 ### CSrankings [CSRankings: Computer Science Rankings](https://csrankings.org/#/fromyear/2012/toyear/2022/index?all&cn)
 
-### 电子书集合  [github.com](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
+### 电子书集合  
+
+github上高star项目[github.com](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md)
+
+Zlibrary： https://zh.usa1lib.vip/ （好像不能用了）
+
+Library Genesis: https://libgen.li/
+
+HathiTrust: https://www.hathitrust.org/
 
 ### GitHub中文repo排名  https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts
 
