@@ -20,6 +20,8 @@ Acwing： [AcWing](https://www.acwing.com/)
 
 洛谷： [题目列表 - 洛谷 | 计算机科学教育新生态 (luogu.com.cn)](https://www.luogu.com.cn/problem/list?tag=&page=1&difficulty=1&orderBy=&order=)
 
+Codeforces： [Codeforces](https://codeforces.com/)
+
 ### 论文资源
 
 知网：[中文数据库 (xstsg.top)](http://wen.xstsg.top/e/action/ListInfo/?classid=61)
