@@ -32,7 +32,7 @@ Sci-Hub： https://sci-hub.se
 
 ### 图片转码
 
-SM.ms： [sm.ms](https://sm.ms/) （打不开了似乎）
+SM.ms： [sm.ms](https://sm.ms/) （需要魔法）
 
 ### 打字  [Touch Typing Lessons | Typing Tom](https://www.typingtom.com/lessons)
 
@@ -58,7 +58,7 @@ HathiTrust: https://www.hathitrust.org/
 
 ### VPN
 
-一元机场：[一元机场 (xn--4gq62f52gdss.com)](https://xn--4gq62f52gdss.com/#/knowledge)
+一元机场：https://xn--4gq62f52gdss.com/#/register?code=5ctNX311
 
 SDK： https://sdkdns.org/
 
